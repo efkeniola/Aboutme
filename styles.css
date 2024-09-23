@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+}
+.efk_img{
+    border-radius: 180px;
+    zoom: 40%;
+
+}
+.prof_css{
+    text-align: center;
+}
+
+.icon_li{
+    list-style-type: none;
+   list-style: none;
+  
+}
+.icon{
+    zoom: 20%;
+    border-radius: 20px;
+}
+.social_me{
+    display: flex;
+    float: left;
+}
